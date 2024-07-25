@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    background-color: #000000;
+    justify-content: center;
+   
+}
+
+.nome{
+    font-size: 25px;
+    color: #ffffff;
+    position: absolute;
+    align-self: center;
+    height: auto;
+    width: 500px;
+    text-align: center;
+    top: 53%;
+    font-weight: bold;
+
+}
+
+.endereço{
+    font-size: 15px;
+    color: #ffffff;
+    position: absolute;
+    align-self: center;
+    height: auto;
+    width: 500px;
+    text-align: center;
+    top: 59%;
+
+}
+
+.texto-sobre-imagem{
+    font-size: 25px;
+    color: #ffffff;
+    position: absolute;
+    align-self: center;
+    height: auto;
+    width: 500px;
+    text-align: center;
+    top: 92%;
+    font-weight: bold;
+
+}
+
+.logo {
+    top: 67%; /* Distância da base */
+    position: absolute; /* centralização */
+    width: 250px; /* Largura da imagem */
+    height: auto; /* Altura ajustável de acordo com a largura */
+
+}
+
+.container {
+    top: 15%;
+    position: absolute;
+    text-align: center;
+
+}
+
+h1 {
+    color: #ffffff;
+}
