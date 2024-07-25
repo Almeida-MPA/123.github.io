@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000000;
+
+    .logo {
+        position: absolute; /* Posicionamento absoluto em relação ao body */
+        top: 0px; /* Distância do topo */
+        right: 0px; /* Distância da direita */
+        width: 250px; /* Largura da imagem */
+        height: auto; /* Altura ajustável de acordo com a largura */
+
+    }
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: #ffffff;
+}
