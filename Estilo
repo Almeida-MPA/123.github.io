@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#textoAleatorio {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
